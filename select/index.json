@@ -1,16 +1,136 @@
 {
   "version": 1,
-  "base_track": "Flowering（feat. MISUMI）",
-  "base_artist": "理芽",
-  "createdAt": "2025-12-18T14:02:00.875904Z",
+  "base_track": "Flowering",
+  "base_artist": "理芽 with Misumi",
+  "createdAt": "2026-02-11T07:38:09.955693Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flowering Night (alstroemeriaRemix)",
+      "artist": "Masayoshi Minoshima",
+      "has_synced": false,
+      "path": "select/01_Flowering_Night_(alstroemeriaRemix)_Masayoshi_Minoshima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flowering Night",
+      "artist": "Masayoshi Minoshima",
+      "has_synced": false,
+      "path": "select/02_Flowering_Night_Masayoshi_Minoshima.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flowering",
+      "artist": "Tweedy",
+      "has_synced": true,
+      "path": "select/03_Flowering_Tweedy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flowering",
+      "artist": "달의하루",
+      "has_synced": false,
+      "path": "select/04_Flowering_달의하루.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flowering",
+      "artist": "LUCY",
+      "has_synced": true,
+      "path": "select/05_Flowering_LUCY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "개화 (Flowering)",
+      "artist": "LUCY",
+      "has_synced": true,
+      "path": "select/06_개화_(Flowering)_LUCY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flowering Night Fever",
+      "artist": "UNDEAD CORPORATION DOUJIN WORKS",
+      "has_synced": true,
+      "path": "select/07_Flowering_Night_Fever_UNDEAD_CORPORATION_DOUJIN_WORKS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flowering Night Fever",
+      "artist": "UNDEAD CORPORATION",
+      "has_synced": true,
+      "path": "select/08_Flowering_Night_Fever_UNDEAD_CORPORATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flowering Night Fever (ギターインスト版)",
+      "artist": "UNDEAD CORPORATION",
+      "has_synced": true,
+      "path": "select/09_Flowering_Night_Fever_(ギターインスト版)_UNDEAD_CORPORATION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Flowering",
+      "artist": "SOOJIN",
+      "has_synced": true,
+      "path": "select/10_Flowering_SOOJIN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Opening, Flowering, Drinking (feat. Norah Jones)",
+      "artist": "Anoushka Shankar feat. Norah Jones",
+      "has_synced": true,
+      "path": "select/11_Opening,_Flowering,_Drinking_(feat._Norah_Jones)_Anoushka_Shankar_feat._Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Opening, Flowering, Drinking",
+      "artist": "Anoushka Shankar",
+      "has_synced": true,
+      "path": "select/12_Opening,_Flowering,_Drinking_Anoushka_Shankar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flowering",
+      "artist": "ETOLUBOV",
+      "has_synced": true,
+      "path": "select/13_Flowering_ETOLUBOV.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flowering Night",
+      "artist": "ayame",
+      "has_synced": false,
+      "path": "select/14_Flowering_Night_ayame.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Masayoshi Minoshima / Flowering Night (alstroemeriaRemix)",
+      "artist": "Diverse System",
+      "has_synced": false,
+      "path": "select/15_Masayoshi_Minoshima___Flowering_Night_(alstroemeriaRemix)_Diverse_System.txt"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "Flowering",
-      "artist": "理芽",
+      "artist": "理芽 with Misumi",
       "has_synced": false,
-      "path": "select/pl_01_Flowering_理芽.txt"
+      "path": "select/pl_01_Flowering_理芽_with_Misumi.txt"
     }
   ]
 }
